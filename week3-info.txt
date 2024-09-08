@@ -1,0 +1,1 @@
+In week 3, data cleaning on titanic disaster dataset was performed.
